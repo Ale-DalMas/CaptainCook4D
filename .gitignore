@@ -1,8 +1,8 @@
-# Python cache e compilati
+# Python specific files
 __pycache__/
 *.pyc
 
-# Ambiente virtuale
+# Virtual environment directories
 .venv/
 venv/
 env/
@@ -10,6 +10,6 @@ env/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# File di sistema e IDE
+# File system specific files
 .DS_Store
 .vscode/
